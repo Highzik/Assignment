@@ -1,1 +1,1 @@
-This is everything I need to know about GoMyCode Web Structures
+This project simply explains the basics of Web Fundamentals, Git, and GitHub, and I will be designing a few websites under this project.
